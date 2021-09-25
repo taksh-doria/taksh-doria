@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Enjoying documentaries
 -->
-#⚡ Fun fact: Enjoying documentaries
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=taksh-doria&show_icons=true&theme=dark&&count_private=true&include_all_commits=true)
 
