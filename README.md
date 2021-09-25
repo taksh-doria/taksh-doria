@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 #⚡ Fun fact: Enjoying documentaries
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=taksh-doria&show_icons=true&theme=dark&&count_private=true&include_all_commits=true)
 
 <a href=https://www.taksh-doria.codes> <img src="https://icons8.com/icon/Py8qB0P09q3Y/computer"></img></a>
 <a href=https://twitter.com/taksh_doria > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
